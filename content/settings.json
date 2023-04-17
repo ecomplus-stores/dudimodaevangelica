@@ -1,7 +1,7 @@
 {
   "domain": "dudimodaevangelica.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#78c2ad",
+  "primary_color": "#1e2020",
   "theme": {
     "bootswatch": "minty",
     "custom": "ecom-beauty"
