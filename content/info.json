@@ -5,10 +5,10 @@
   },
   "installments": {
     "show": true,
-    "text": "Parcele sem juros"
+    "text": "Parcelas em 10x sem juros!"
   },
   "exchange": {
-    "show": false,
+    "show": true,
     "text": ""
   },
   "promo": {
