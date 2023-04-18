@@ -14,15 +14,11 @@
     {
       "type": "brand-retail",
       "enabled": true,
-      "sort": "sales"
+      "sort": "slug"
     },
     {
       "type": "document-description",
       "enabled": true
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": true
     }
   ]
 }
