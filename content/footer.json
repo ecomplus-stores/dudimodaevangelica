@@ -5,7 +5,7 @@
   },
   "links_1": {
     "list_pages": true,
-    "title": "Páginas",
+    "title": "Suporte",
     "list": []
   },
   "links_2": {
@@ -14,7 +14,7 @@
     "list": []
   },
   "contacts": {
-    "title": "Contatos",
+    "title": "Canais de Atendimento",
     "phone_wpp": true,
     "socials": true,
     "email": true,
