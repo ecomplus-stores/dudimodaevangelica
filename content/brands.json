@@ -8,22 +8,13 @@
       "type": "page-title"
     },
     {
-      "type": "document-banner",
-      "enabled": true
-    },
-    {
-      "type": "brand-retail",
-      "enabled": true,
-      "sort": "slug"
-    },
-    {
       "type": "document-description",
       "enabled": true
     },
     {
       "type": "brand-retail",
       "enabled": true,
-      "sort": "news"
+      "sort": null
     }
   ]
 }
