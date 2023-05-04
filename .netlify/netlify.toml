@@ -56,3 +56,118 @@
   for = "/assets/*"
   [headers.values]
     Cache-Control = "public, max-age=86400, s-maxage=600"
+
+[[redirects]]
+from = "/sitemaps/pages"
+to = "/sitemap.xml"
+status = 301
+force = true
+
+[[redirects]]
+from = "/sitemaps/pages"
+to = "/sitemap.xml"
+status = 301
+force = true
+
+[[redirects]]
+from = "/sitemaps/pages"
+to = "/sitemap.xml"
+status = 301
+force = true
+
+[[redirects]]
+from = "/sitemaps/searches"
+to = "/sitemap.xml"
+status = 301
+force = true
+
+[[redirects]]
+from = "/sitemaps/grids"
+to = "/sitemap.xml"
+status = 301
+force = true
+
+[[redirects]]
+from = "/sitemaps/categories"
+to = "/sitemap.xml"
+status = 301
+force = true
+
+[[redirects]]
+from = "/sitemaps/brands"
+to = "/sitemap.xml"
+status = 301
+force = true
+
+[[redirects]]
+from = "/sitemaps/products"
+to = "/sitemap.xml"
+status = 301
+force = true
+
+[[redirects]]
+from = "/entrar"
+to = "/app/#/account/"
+status = 301
+force = true
+
+[[redirects]]
+from = "/contato"
+to = "/pages/fale-conosco"
+status = 301
+force = true
+
+[[redirects]]
+from = "/pagina/privacidade"
+to = "/pages/privacidade"
+status = 301
+force = true
+
+[[redirects]]
+from = "/pagina/pagamento"
+to = "/pages/pagamentos"
+status = 301
+force = true
+
+[[redirects]]
+from = "/pagina/como-comprar"
+to = "/pages/como-comprar"
+status = 301
+force = true
+
+[[redirects]]
+from = "/pagina/sobre"
+to = "/pages/sobre-nos"
+status = 301
+force = true
+
+[[redirects]]
+from = "/pagina/trocas"
+to = "/pages/trocas"
+status = 301
+force = true
+
+[[redirects]]
+from = "/conta"
+to = "/app/#/account/"
+status = 301
+force = true
+
+[[redirects]]
+from = "/cadastrar"
+to = "/"
+status = 301
+force = true
+
+[[redirects]]
+from = "/grid*"
+to = "/search"
+status = 301
+force = true
+
+[[redirects]]
+from = "/busca?b=*"
+to = "/search?term=*"
+status = 301
+force = true
+
