@@ -112,7 +112,7 @@
 
 [[redirects]]
   from = "/busca?b=*"
-  to = "/search?term=*"
+  to = "/search?term=:splat"
   status = 301
   force = true
 
