@@ -1,5 +1,5 @@
 {
-  "meta_title": "",
+  "meta_title": "Aqui você encontra o melhor da Moda Evangélica e Executiva. Parcele suas compras em até 10x sem juros. Confira!",
   "meta_description": "",
   "sections": [
     {
@@ -25,6 +25,10 @@
     {
       "type": "dynamic-showcase",
       "load_more": true
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     }
   ]
 }
