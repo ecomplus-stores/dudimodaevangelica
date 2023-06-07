@@ -11,6 +11,7 @@
         "title": "Sobre nós",
         "link": "/pages/sobre-nos"
       },
+      {},
       {}
     ],
     "phone_wpp": true,
@@ -22,7 +23,7 @@
       "/conjunto?Conjunto",
       "/plus-size?Plus Size",
       "/jeans?Jeans",
-      "/03-saia-midi-com-bolso-frontal-mostarda-via-tolentino?Saias"
+      "/03-saia-midi-com-bolso-frontal-mostarda-via-tolentino?Vestidos"
     ],
     "random": 8,
     "full_width": true
