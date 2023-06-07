@@ -1,8 +1,9 @@
 {
   "sections": [
     {
-      "type": "custom-content",
-      "markdown": "B﻿lusas Hapuk"
+      "type": "page-title",
+      "title": "Hapuk",
+      "description": "Hapuk"
     }
   ]
 }
