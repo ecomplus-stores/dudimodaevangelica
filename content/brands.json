@@ -1,3 +1,16 @@
 {
-  "sections": []
+  "sections": [
+    {
+      "type": "custom-content",
+      "markdown": "M﻿arcas"
+    },
+    {
+      "type": "brand-retail",
+      "enabled": true,
+      "sort": "sales"
+    },
+    {
+      "type": "banners-grid"
+    }
+  ]
 }
