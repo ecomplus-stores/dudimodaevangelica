@@ -11,6 +11,10 @@
     },
     {
       "type": "banners-grid"
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true
     }
   ]
 }
