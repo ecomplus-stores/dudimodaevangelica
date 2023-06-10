@@ -10,7 +10,8 @@
       {
         "title": "Sobre nós",
         "link": "/pages/sobre-nos"
-      }
+      },
+      {}
     ],
     "phone_wpp": true,
     "socials": true
@@ -18,12 +19,12 @@
   "categories_list": {
     "featured": [
       "/saias?Saias",
-      "/conjuntos?Conjuntos",
       "/blusas?Blusas",
       "/conjunto?Conjunto",
       "/plus-size?Plus Size",
       "/jeans?Jeans",
-      "/vestidos-feminino?Vestidos"
+      "/vestidos-feminino?Vestidos",
+      "/hapuk?Hapuk"
     ],
     "random": 6,
     "full_width": true
