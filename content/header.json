@@ -16,8 +16,16 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
-    "random": 8,
+    "featured": [
+      "/saias?Saias",
+      "/conjuntos?Conjuntos",
+      "/blusas?Blusas",
+      "/conjunto?Conjunto",
+      "/plus-size?Plus Size",
+      "/jeans?Jeans",
+      "/vestidos-feminino?Vestidos"
+    ],
+    "random": 6,
     "full_width": true
   },
   "desktop_megamenu": false,
