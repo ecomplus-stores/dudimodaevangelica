@@ -16,19 +16,13 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [
-      "/blusas?Blusas",
-      "/conjunto?Conjunto",
-      "/plus-size?Plus Size",
-      "/jeans?Jeans",
-      "/03-saia-midi-com-bolso-frontal-mostarda-via-tolentino?Vestidos"
-    ],
+    "featured": [],
     "random": 8,
     "full_width": true
   },
   "desktop_megamenu": false,
   "search_input": true,
-  "alphabetical_order_submenu": false,
+  "alphabetical_order_submenu": true,
   "full_width_submenu": false,
   "centralized_logo": false
 }
