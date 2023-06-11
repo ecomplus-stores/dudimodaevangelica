@@ -17,14 +17,7 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [
-      "/saias?Saias",
-      "/blusas?Blusas",
-      "/plus-size?Plus Size",
-      "/jeans?Jeans",
-      "/vestidos-feminino?Vestidos",
-      "/hapuk?Hapuk"
-    ],
+    "featured": [],
     "random": 8,
     "full_width": true
   },
