@@ -11,14 +11,20 @@
         "title": "Sobre nós",
         "link": "/pages/sobre-nos"
       },
+      {},
       {}
     ],
     "phone_wpp": true,
     "socials": true
   },
   "categories_list": {
-    "featured": [],
-    "random": 10,
+    "featured": [
+      "/blusas?Blusas",
+      "/plus-size?Plus Size",
+      "/jeans?Jeans",
+      "/hapuk?Hapuk"
+    ],
+    "random": 7,
     "full_width": true
   },
   "desktop_megamenu": false,
