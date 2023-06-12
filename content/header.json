@@ -17,13 +17,8 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [
-      "/luciana?Luciana Pais",
-      "/hapuk?Hapuk",
-      "/via-tolentino?Via Tolentino",
-      "/conjunto?Conjunto"
-    ],
-    "random": 8,
+    "featured": [],
+    "random": 10,
     "full_width": true
   },
   "desktop_megamenu": false,
