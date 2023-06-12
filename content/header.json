@@ -21,7 +21,8 @@
     "featured": [
       "/blusas?Blusas",
       "/plus-size?Plus Size",
-      "/jeans?Jeans"
+      "/jeans?Jeans",
+      "/conjunto?Conjunto"
     ],
     "random": 7,
     "full_width": true
