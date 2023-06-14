@@ -18,13 +18,7 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [
-      "/blusas?Blusas",
-      "/plus-size?Plus Size",
-      "/jeans?Jeans",
-      "/hapuk?Hapuk",
-      "/tata-martello?Tata Martello"
-    ],
+    "featured": [],
     "random": 10,
     "full_width": true
   },
