@@ -19,7 +19,12 @@
   },
   "categories_list": {
     "featured": [
-      "/tata-martello?Tata Martello"
+      "/vestidos?Vestidos",
+      "/saias?Saias",
+      "/blusas?Blusas",
+      "/conjuntos?Conjuntos",
+      "/conjuntos?Conjuntos",
+      "/fitness?Fitness"
     ],
     "random": 10,
     "full_width": true
