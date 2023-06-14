@@ -23,7 +23,8 @@
       "/saias?Saias",
       "/blusas?Blusas",
       "/conjuntos?Conjuntos",
-      "/fitness?Fitness"
+      "/fitness?Fitness",
+      "/jeans?Jeans"
     ],
     "random": 10,
     "full_width": true
