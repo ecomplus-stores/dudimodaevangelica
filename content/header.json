@@ -25,7 +25,8 @@
       "/conjuntos?Conjuntos",
       "/fitness?Fitness",
       "/jeans?Jeans",
-      "/vestidos?Vestidos"
+      "/vestidos?Vestidos",
+      "/via-tolentino?Via Tolentino"
     ],
     "random": 10,
     "full_width": true
