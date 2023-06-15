@@ -12,6 +12,7 @@
         "link": "/pages/sobre-nos"
       },
       {},
+      {},
       {}
     ],
     "phone_wpp": true,
@@ -19,12 +20,12 @@
   },
   "categories_list": {
     "featured": [
-      "/vestidos?Vestidos",
       "/saias?Saias",
       "/blusas?Blusas",
       "/conjuntos?Conjuntos",
       "/fitness?Fitness",
-      "/jeans?Jeans"
+      "/jeans?Jeans",
+      "/vestidos?Vestidos"
     ],
     "random": 10,
     "full_width": true
