@@ -20,13 +20,16 @@
   },
   "categories_list": {
     "featured": [
-      "/saias?Saias",
-      "/blusas?Blusas",
-      "/conjuntos?Conjuntos",
-      "/fitness?Fitness",
-      "/jeans?Jeans",
-      "/vestidos?Vestidos",
-      "/hapuk?Hapuk"
+      "/marcas?Marcas",
+      "/via-tolentino?Via Tolentino",
+      "/luciana?Luciana Pais",
+      "/tata-martello?Tata Martello",
+      "/nitido-jeans?Nitido Jeans",
+      "/nitido-jeans?Nitido Jeans",
+      "/maria-amore?Maria Amore",
+      "/dazul?D´Azul",
+      "/kauly?Kauly",
+      "/hadaza?Hadaza"
     ],
     "random": 10,
     "full_width": true
