@@ -19,16 +19,7 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [
-      "/marcas?Marcas",
-      "/luciana?Luciana Pais",
-      "/nitido-jeans?Nitido Jeans",
-      "/maria-amore?Maria Amore",
-      "/dazul?D´Azul",
-      "/kauly?Kauly",
-      "/via-tolentino?Via Tolentino",
-      "/hadaza?Hadaza"
-    ],
+    "featured": [],
     "random": 10,
     "full_width": true
   },
