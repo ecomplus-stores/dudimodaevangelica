@@ -4,9 +4,10 @@
   "desktopOnly": false,
   "enableCheckout": true,
   "options": {
-    "gtmContainerId": "",
+    "gtmContainerId": "5775312255",
     "dataLayerVar": "dataLayer",
-    "partytown": false
+    "partytown": false,
+    "isDebug": true
   },
   "headAppend": "src/append/head",
   "bodyAppend": "src/append/body"
