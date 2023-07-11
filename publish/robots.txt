@@ -1,0 +1,15 @@
+User-agent: *
+Allow:
+User-agent: Googlebot
+Allow:
+User-agent: Googlebot-Image
+Allow:
+User-agent: Mediapartners-Google
+Allow:
+User-agent: Adsbot-Google
+Allow:
+Allow: /
+Disallow: /app/#/checkout
+Disallow: /admin/
+
+Sitemap: https://www.dudimodaevangelica.com.br/sitemap.xml
