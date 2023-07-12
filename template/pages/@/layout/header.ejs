@@ -343,8 +343,18 @@ if (hasBrands) {
                 </a>
                 <% if (hasMegamenu) { %>
                   <nav class="header__submenu header__submenu--full" id="s-brands">
-                    <% brands.forEach(brand => { %>
-                      <div>               
+                    <% brands.forEach((brand, index) => { %>
+                      <div class="brand-line">
+                          <span class="menu__item-icon">
+                            <% if (brand.logo) { %>
+                            <img
+                              data-src="<%= brand.logo.url %>"
+                              alt="<%= brand.logo.alt || brand.name %>"
+                              class="lozad"
+                              data-preload="<%= (index * 200) %>"
+                            >
+                            <% } %> 
+                          </span>              
                         <a id="b-<%= brand._id %>" href="/<%= brand.slug %>"><%= brand.name %></a>
                       </div>
                     <% }) %>

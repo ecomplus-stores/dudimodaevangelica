@@ -137,6 +137,16 @@ if (mainCategories) {
                     >
                   </span>
                 <% } %>
+                <% if (subcategory.logo) { %>
+                  <span class="menu__item-icon">
+                    <img
+                      data-src="<%= subcategory.logo.url %>"
+                      alt="<%= subcategory.logo.alt || subcategory.name %>"
+                      class="lozad"
+                      data-preload="<%= (index * 200) %>"
+                    >
+                  </span>
+                <% } %>
                 <span>
                   <%= subcategory.name %>
                 </span>
