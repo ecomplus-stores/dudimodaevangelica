@@ -22,7 +22,9 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/via-tolentino?Via Tolentino"
+    ],
     "random": 1,
     "full_width": true
   },
