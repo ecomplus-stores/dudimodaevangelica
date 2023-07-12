@@ -23,7 +23,8 @@
   },
   "categories_list": {
     "featured": [
-      "/marcas?Marcas"
+      "/marcas?Marcas",
+      "/hapuk?Hapuk"
     ],
     "random": 1,
     "full_width": true
