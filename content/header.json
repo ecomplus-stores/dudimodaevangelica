@@ -22,9 +22,7 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [
-      "/marcas?Marcas"
-    ],
+    "featured": [],
     "random": 1,
     "full_width": true
   },
