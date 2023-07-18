@@ -8,13 +8,13 @@
       "type": "product-block",
       "enabled": true,
       "size_guide": {
-        "image": "",
+        "image": null,
         "title": ""
       }
     },
     {
       "type": "related-products",
-      "title": "Produtos relacionados"
+      "title": "Produtos Relacionados"
     },
     {
       "type": "recommended-products",
