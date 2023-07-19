@@ -17,11 +17,6 @@
       "title": "Produtos Relacionados"
     },
     {
-      "type": "recommended-products",
-      "title": "Quem comprou este produto, também comprou:",
-      "show_loading": true
-    },
-    {
       "type": "product-description",
       "title": "Quem comprou este produto, também comprou:",
       "enabled": true
