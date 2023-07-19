@@ -13,10 +13,6 @@
       }
     },
     {
-      "type": "related-products",
-      "title": "Produtos Relacionados"
-    },
-    {
       "type": "product-description",
       "title": "Quem comprou este produto, também comprou:",
       "enabled": true
