@@ -19,7 +19,15 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/vestidos?Vestidos",
+      "/saias?Saias",
+      "/blusas?Blusas",
+      "/blusas?Blusas",
+      "/conjuntos?Conjuntos",
+      "/plus-size?Plus Size",
+      "/feminino?Feminino"
+    ],
     "random": 8,
     "full_width": true
   },
