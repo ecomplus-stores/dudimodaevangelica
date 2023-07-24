@@ -3,6 +3,10 @@
     {
       "type": "search-engine",
       "enabled": true
+    },
+    {
+      "type": "custom-html",
+      "html": "<meta name=\"google-site-verification\" content=\"h7gfKi0ilYfaHjsSbkSERrmR7TOLEbZEU-O_j116p4c\" />"
     }
   ]
 }
