@@ -3,26 +3,6 @@
   "meta_description": "Moda Evangelica e Modesta",
   "sections": [
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "img": "/img/uploads/marco-2-.png",
-          "link": "",
-          "alt": "",
-          "start": "",
-          "end": "",
-          "mobile_img": ""
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/2.png"
-        }
-      ]
-    },
-    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "news"
