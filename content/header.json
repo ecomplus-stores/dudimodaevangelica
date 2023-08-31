@@ -1,10 +1,21 @@
 {
+  "categories_list": {
+    "featured": [],
+    "random": 8,
+    "full_width": true
+  },
+  "centralized_logo": false,
   "marketing_stripe": {
     "text": "Frete grátis em compras acima de R$199,90",
     "link": "",
     "background": "#ff00a1",
     "color": "#fafafa"
   },
+  "alphabetical_order_submenu": true,
+  "popup": "https://www.dudimodaevangelica.com.br/conjunto-aurora-hapuk",
+  "search_input": true,
+  "desktop_megamenu": true,
+  "full_width_submenu": false,
   "contacts_stripe": {
     "pages": [
       {
@@ -17,15 +28,5 @@
     ],
     "phone_wpp": true,
     "socials": true
-  },
-  "categories_list": {
-    "featured": [],
-    "random": 8,
-    "full_width": true
-  },
-  "desktop_megamenu": true,
-  "search_input": true,
-  "alphabetical_order_submenu": true,
-  "full_width_submenu": false,
-  "centralized_logo": false
+  }
 }
