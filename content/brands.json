@@ -10,7 +10,13 @@
       "sort": "sales"
     },
     {
-      "type": "banners-grid"
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/banner-hapuk.webp",
+          "link": "https://www.dudimodaevangelica.com.br/hapuk"
+        }
+      ]
     },
     {
       "type": "dynamic-showcase",
