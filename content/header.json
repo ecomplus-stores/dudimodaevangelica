@@ -19,12 +19,12 @@
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
-      },
-      {
         "title": "Pagina Inicial",
         "link": "https://www.dudimodaevangelica.com.br/"
+      },
+      {
+        "title": "Sobre nós",
+        "link": "/pages/sobre-nos"
       }
     ],
     "phone_wpp": true,
