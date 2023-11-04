@@ -3,6 +3,18 @@
   "meta_description": "Moda Evangélica e Modesta",
   "sections": [
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/black-friday.webp"
+        }
+      ]
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "news"
@@ -14,14 +26,12 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/black-friday.webp"
-        }
-      ]
+      "full_width": false
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false
     }
   ]
 }
