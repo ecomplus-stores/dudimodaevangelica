@@ -3,6 +3,10 @@
   "meta_description": "Moda Evangélica e Modesta",
   "sections": [
     {
+      "type": "info-bar",
+      "enabled": true
+    },
+    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": false,
@@ -18,10 +22,6 @@
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "news"
-    },
-    {
-      "type": "info-bar",
-      "enabled": true
     }
   ]
 }
