@@ -10,6 +10,18 @@
     {
       "type": "info-bar",
       "enabled": true
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/composicao-de-letras-pretas-de-sexta-feira-superior-1.webp"
+        }
+      ]
     }
   ]
 }
