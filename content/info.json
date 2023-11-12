@@ -13,7 +13,8 @@
     "text": ""
   },
   "promo": {
-    "show": false,
-    "text": ""
+    "show": true,
+    "text": "",
+    "title": "10% Off no pix"
   }
 }
