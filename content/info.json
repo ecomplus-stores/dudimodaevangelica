@@ -11,7 +11,8 @@
   },
   "exchange": {
     "show": true,
-    "text": ""
+    "text": "Até 7 dias para trocar",
+    "title": "TROCA"
   },
   "promo": {
     "show": true,
