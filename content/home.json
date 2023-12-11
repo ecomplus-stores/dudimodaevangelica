@@ -9,8 +9,14 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "full_width": false,
-      "slides": []
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/final-de-ano-23.png"
+        }
+      ]
     },
     {
       "type": "dynamic-showcase",
