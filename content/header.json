@@ -4,6 +4,7 @@
     "random": 6,
     "full_width": true
   },
+  "menu_all_departments": true,
   "centralized_logo": false,
   "marketing_stripe": {
     "text": "FRETE GRÁTIS EM COMPRAS ACIMA DE R$399,90.",
@@ -13,6 +14,7 @@
   },
   "alphabetical_order_submenu": true,
   "popup": "",
+  "name_all_departments": "",
   "search_input": true,
   "desktop_megamenu": true,
   "full_width_submenu": false,
