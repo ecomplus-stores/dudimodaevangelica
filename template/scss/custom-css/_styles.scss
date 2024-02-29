@@ -8,3 +8,8 @@
 .brand-line {
     display: flex;
 }
+@media(max-width: 767px) {
+    .product-card__buy.fade {
+        opacity: 1
+    }
+}
