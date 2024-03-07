@@ -15,7 +15,7 @@
     },
     {
       "type": "collection-retail",
-      "enabled": true,
+      "enabled": false,
       "sort": null
     },
     {
