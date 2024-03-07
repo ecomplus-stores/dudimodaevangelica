@@ -23,7 +23,7 @@
     {
       "type": "category-retail",
       "enabled": true,
-      "sort": "sales"
+      "sort": "news"
     }
   ]
 }
