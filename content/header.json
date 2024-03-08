@@ -1,9 +1,6 @@
 {
   "categories_list": {
-    "featured": [
-      "/lancamento?Lançamento",
-      "/lancamento?Lançamento"
-    ],
+    "featured": [],
     "random": 0,
     "full_width": true
   },
