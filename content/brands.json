@@ -7,7 +7,7 @@
     {
       "type": "brand-retail",
       "enabled": true,
-      "sort": "views"
+      "sort": null
     },
     {
       "type": "banners-grid",
