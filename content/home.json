@@ -10,13 +10,7 @@
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/cliente.png"
-        }
-      ]
+      "slides": []
     },
     {
       "type": "dynamic-showcase",
