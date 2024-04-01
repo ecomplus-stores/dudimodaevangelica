@@ -10,7 +10,14 @@
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": true,
-      "slides": []
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/promocao-40off.png",
+          "link": "https://www.dudimodaevangelica.com.br/tata-martello"
+        }
+      ]
     },
     {
       "type": "dynamic-showcase",
