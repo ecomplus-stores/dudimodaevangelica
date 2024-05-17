@@ -6,7 +6,7 @@
     },
     {
       "type": "brand-retail",
-      "enabled": false,
+      "enabled": true,
       "sort": null
     },
     {
