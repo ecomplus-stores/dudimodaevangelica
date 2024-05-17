@@ -16,7 +16,7 @@
     {
       "type": "collection-retail",
       "enabled": true,
-      "sort": null
+      "sort": "news"
     },
     {
       "type": "document-description",
