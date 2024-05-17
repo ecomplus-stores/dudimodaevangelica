@@ -11,7 +11,7 @@
     },
     {
       "type": "document-banner",
-      "enabled": false
+      "enabled": true
     },
     {
       "type": "collection-retail",
