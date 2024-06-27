@@ -2648,12 +2648,6 @@
     </url>
   
     <url>
-      <loc>https://www.dudimodaevangelica.com.br/queima-de-estoque</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://www.dudimodaevangelica.com.br/hapuk</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -2792,9 +2786,9 @@
     </url>
   
     <url>
-      <loc>https://www.dudimodaevangelica.com.br/pages/como-comprar</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
+      <loc>https://www.dudimodaevangelica.com.br/queima-de-estoque</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
     </url>
   
     <url>
@@ -2816,13 +2810,19 @@
     </url>
   
     <url>
-      <loc>https://www.dudimodaevangelica.com.br/pages/trocas</loc>
+      <loc>https://www.dudimodaevangelica.com.br/pages/como-comprar</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
       <loc>https://www.dudimodaevangelica.com.br/pages/sobre-nos</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.dudimodaevangelica.com.br/pages/trocas</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
