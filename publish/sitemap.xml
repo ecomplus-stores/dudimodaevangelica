@@ -2582,7 +2582,7 @@
     </url>
   
     <url>
-      <loc>https://www.dudimodaevangelica.com.br/vestido-clara-laco-puro-sharmy</loc>
+      <loc>https://www.dudimodaevangelica.com.br/vestido-clara-laco-verde-puro-sharmy</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -2595,6 +2595,18 @@
   
     <url>
       <loc>https://www.dudimodaevangelica.com.br/saia-vera-verde-puro-sharmy</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.dudimodaevangelica.com.br/vestido-clara-laco-coral-puro-sharmy</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.dudimodaevangelica.com.br/saia-vera-verde-puro-sharmy-c199</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -2649,12 +2661,6 @@
   
     <url>
       <loc>https://www.dudimodaevangelica.com.br/promocoes</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.dudimodaevangelica.com.br/queima-de-estoque</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
@@ -2793,6 +2799,12 @@
   
     <url>
       <loc>https://www.dudimodaevangelica.com.br/delicate</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.dudimodaevangelica.com.br/queima-de-estoque</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
