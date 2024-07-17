@@ -37,6 +37,10 @@
     {
       "type": "breadcrumbs",
       "enabled": true
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/frete-gratis-sao-paulo.png"
     }
   ]
 }
