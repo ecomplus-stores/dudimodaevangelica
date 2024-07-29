@@ -1,13 +1,6 @@
 {
   "stamps_list": [
     {
-      "id": "Promoção",
-      "img": "/img/uploads/promocao.png",
-      "skus": [
-        "SNTD99169"
-      ]
-    },
-    {
       "id": "Novidade",
       "img": "/img/uploads/novidade.png",
       "skus": [
