@@ -1,13 +1,3 @@
 {
-  "stamps_list": [
-    {
-      "id": "Novidade",
-      "img": "/img/uploads/novidade.png",
-      "skus": [
-        "VD4642",
-        "VSV1031",
-        "VSS1034"
-      ]
-    }
-  ]
+  "stamps_list": []
 }
