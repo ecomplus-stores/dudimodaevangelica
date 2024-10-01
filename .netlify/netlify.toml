@@ -9,18 +9,6 @@
   force = true
 
 [[redirects]]
-  from = "/sitemaps/pages"
-  to = "/sitemap.xml"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/sitemaps/pages"
-  to = "/sitemap.xml"
-  status = 301
-  force = true
-
-[[redirects]]
   from = "/sitemaps/searches"
   to = "/sitemap.xml"
   status = 301
