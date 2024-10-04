@@ -2432,60 +2432,6 @@
     </url>
   
     <url>
-      <loc>https://www.dudimodaevangelica.com.br/saias</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.dudimodaevangelica.com.br/blusas</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.dudimodaevangelica.com.br/conjuntos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.dudimodaevangelica.com.br/plus-size</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.dudimodaevangelica.com.br/jeans</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.dudimodaevangelica.com.br/fitness</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.dudimodaevangelica.com.br/vestidos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.dudimodaevangelica.com.br/trico</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.dudimodaevangelica.com.br/promocoes</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://www.dudimodaevangelica.com.br/queima-de-estoque</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -2631,6 +2577,60 @@
   
     <url>
       <loc>https://www.dudimodaevangelica.com.br/valentina-sirrah</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.dudimodaevangelica.com.br/saias</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.dudimodaevangelica.com.br/blusas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.dudimodaevangelica.com.br/conjuntos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.dudimodaevangelica.com.br/plus-size</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.dudimodaevangelica.com.br/jeans</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.dudimodaevangelica.com.br/fitness</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.dudimodaevangelica.com.br/vestidos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.dudimodaevangelica.com.br/trico</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.dudimodaevangelica.com.br/promocoes</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
