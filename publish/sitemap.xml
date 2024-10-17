@@ -2516,6 +2516,12 @@
     </url>
   
     <url>
+      <loc>https://www.dudimodaevangelica.com.br/queima-de-estoque</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://www.dudimodaevangelica.com.br/hapuk</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -2655,12 +2661,6 @@
   
     <url>
       <loc>https://www.dudimodaevangelica.com.br/valentina-sirrah</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.dudimodaevangelica.com.br/queima-de-estoque</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
