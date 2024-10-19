@@ -734,12 +734,6 @@
     </url>
   
     <url>
-      <loc>https://www.dudimodaevangelica.com.br/saia-gode-xadrez-sarja-laura-rosa-outono-inverno</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.dudimodaevangelica.com.br/vestido-lady-like-estampado-de-amarelo-tata-martello</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -771,12 +765,6 @@
   
     <url>
       <loc>https://www.dudimodaevangelica.com.br/blusa-cropped-pink-nitido-jeans</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.dudimodaevangelica.com.br/vestido-chemise-com-botoes-funcional-maria-amore</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -1022,12 +1010,6 @@
     </url>
   
     <url>
-      <loc>https://www.dudimodaevangelica.com.br/vestido-longo-tule-dazul</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.dudimodaevangelica.com.br/vestido-isadora-verde-fagian</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1220,12 +1202,6 @@
     </url>
   
     <url>
-      <loc>https://www.dudimodaevangelica.com.br/vestido-estampa-exclusiva-leandra-jany-pim</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.dudimodaevangelica.com.br/vestido-eduarda-em-viscose-boutique-k</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1310,25 +1286,7 @@
     </url>
   
     <url>
-      <loc>https://www.dudimodaevangelica.com.br/vestido-em-crepe-anarruga-luciana-pais</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.dudimodaevangelica.com.br/vestido-em-algodao-bordado-kauly</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.dudimodaevangelica.com.br/vestido-vermelho-em-crepe-acetinado-kauly</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.dudimodaevangelica.com.br/chemise-rosa-dazul</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -1341,12 +1299,6 @@
   
     <url>
       <loc>https://www.dudimodaevangelica.com.br/vestido-florenca-m-de-maria</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.dudimodaevangelica.com.br/vestido-verde-c-babados-na-gola-m-d-maria</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -1622,12 +1574,6 @@
     </url>
   
     <url>
-      <loc>https://www.dudimodaevangelica.com.br/blusa-dalia-pink-tata-martello</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.dudimodaevangelica.com.br/blusa-cropped-beatriz-tata-martello</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1671,12 +1617,6 @@
   
     <url>
       <loc>https://www.dudimodaevangelica.com.br/blusa-malha-com-babado-de-laise-cintia-hapuk</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.dudimodaevangelica.com.br/camisa-feminina-estampada-luciana-pais</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -1779,12 +1719,6 @@
   
     <url>
       <loc>https://www.dudimodaevangelica.com.br/vestido-joana-uva-hapuk</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.dudimodaevangelica.com.br/conjunto-amora-preto-hapuk</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -2672,13 +2606,13 @@
     </url>
   
     <url>
-      <loc>https://www.dudimodaevangelica.com.br/pages/fale-conosco</loc>
+      <loc>https://www.dudimodaevangelica.com.br/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.dudimodaevangelica.com.br/pages/pagamentos</loc>
+      <loc>https://www.dudimodaevangelica.com.br/pages/fale-conosco</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -2690,13 +2624,13 @@
     </url>
   
     <url>
-      <loc>https://www.dudimodaevangelica.com.br/pages/sobre-nos</loc>
+      <loc>https://www.dudimodaevangelica.com.br/pages/trocas</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.dudimodaevangelica.com.br/pages/trocas</loc>
+      <loc>https://www.dudimodaevangelica.com.br/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
