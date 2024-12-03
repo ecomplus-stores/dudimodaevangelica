@@ -14,6 +14,11 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/banner-site-esquenta-black.png"
+        },
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/banner-frete-gratis.png",
           "mobile_img": ""
         },
@@ -21,11 +26,6 @@
           "start": "",
           "end": "",
           "img": "/img/uploads/conforto-e-estilo.png"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/banner-site-esquenta-black.png"
         }
       ]
     },
