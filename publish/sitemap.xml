@@ -464,12 +464,6 @@
     </url>
   
     <url>
-      <loc>https://www.dudimodaevangelica.com.br/saia-solange-preta-hapuk</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.dudimodaevangelica.com.br/blusa-de-viscose-bordado-manual-em-perolas-jany-pim</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -477,12 +471,6 @@
   
     <url>
       <loc>https://www.dudimodaevangelica.com.br/blusa-estampada-via-tolentino</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.dudimodaevangelica.com.br/vestido-madalena-jeans-escuro-hapuk</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -986,12 +974,6 @@
     </url>
   
     <url>
-      <loc>https://www.dudimodaevangelica.com.br/vestido-sophia-rosa-hapuk-c566-c405</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.dudimodaevangelica.com.br/blusa-flora--terra-cota-hapuk</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1059,12 +1041,6 @@
   
     <url>
       <loc>https://www.dudimodaevangelica.com.br/vestido-viviane-rosa-hapuk</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.dudimodaevangelica.com.br/vestido-dandara-pink-hapuk</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -2582,13 +2558,13 @@
     </url>
   
     <url>
-      <loc>https://www.dudimodaevangelica.com.br/app/index</loc>
+      <loc>https://www.dudimodaevangelica.com.br/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://www.dudimodaevangelica.com.br/admin/index</loc>
+      <loc>https://www.dudimodaevangelica.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
