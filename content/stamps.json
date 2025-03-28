@@ -1,7 +1,8 @@
 {
   "stamps_list": [
     {
-      "img": "/img/uploads/selo-frete-gratis.png"
+      "img": "/img/uploads/selo-frete-gratis.png",
+      "id": "Frete grátis"
     }
   ]
 }
