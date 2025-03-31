@@ -6,7 +6,8 @@
       "/vestidos?Vestidos",
       "/blusas?Blusas",
       "/saias?Saias",
-      "/conjuntos?Conjuntos"
+      "/conjuntos?Conjuntos",
+      "/jeans?Jeans"
     ],
     "random": 0,
     "full_width": true
