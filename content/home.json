@@ -14,7 +14,17 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner-site-esquenta-black.png"
+          "img": "/img/uploads/frete-gratis.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/primeira-compra.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-site-1200-x-300-px-.png"
         }
       ]
     },
@@ -26,11 +36,6 @@
     {
       "type": "breadcrumbs",
       "enabled": true
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/451849087_2870497466442134_1269673319144071562_n.jpg",
-      "mobile_img": "/img/uploads/451849087_2870497466442134_1269673319144071562_n.jpg"
     }
   ]
 }
