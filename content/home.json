@@ -20,8 +20,8 @@
     },
     {
       "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": null
+      "load_more": false,
+      "sort": "views"
     },
     {
       "type": "breadcrumbs",
