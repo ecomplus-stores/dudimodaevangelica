@@ -16,7 +16,7 @@
   "mini_logo": "",
   "font_family": "Roboto",
   "favicon": "/img/uploads/whatsapp-image-2023-06-26-at-11.57.53.jpeg",
-  "icons_font": "_",
+  "icons_font": "font-awesome",
   "country_code": "BR",
   "secondary_color": "#e39393",
   "icon": "/img/uploads/logo-2-.png",
