@@ -2756,7 +2756,13 @@
     </url>
   
     <url>
-      <loc>https://www.dudimodaevangelica.com.br/pages/como-comprar</loc>
+      <loc>https://www.dudimodaevangelica.com.br/pages/fale-conosco</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.dudimodaevangelica.com.br/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -2768,7 +2774,7 @@
     </url>
   
     <url>
-      <loc>https://www.dudimodaevangelica.com.br/pages/privacidade</loc>
+      <loc>https://www.dudimodaevangelica.com.br/pages/como-comprar</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -2781,12 +2787,6 @@
   
     <url>
       <loc>https://www.dudimodaevangelica.com.br/pages/trocas</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.dudimodaevangelica.com.br/pages/fale-conosco</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
