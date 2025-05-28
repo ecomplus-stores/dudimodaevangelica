@@ -19,6 +19,11 @@
     {
       "type": "document-description",
       "enabled": true
+    },
+    {
+      "type": "category-retail",
+      "enabled": true,
+      "sort": "news"
     }
   ]
 }
