@@ -1,0 +1,162 @@
+[build]
+  publish = "publish"
+  functions = "functions-zip"
+
+[[redirects]]
+  from = "/sitemaps/pages"
+  to = "/sitemap.xml"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/sitemaps/searches"
+  to = "/sitemap.xml"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/sitemaps/grids"
+  to = "/sitemap.xml"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/sitemaps/categories"
+  to = "/sitemap.xml"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/sitemaps/brands"
+  to = "/sitemap.xml"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/sitemaps/products"
+  to = "/sitemap.xml"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/entrar"
+  to = "/app/#/account/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/contato"
+  to = "/pages/fale-conosco"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/pagina/privacidade"
+  to = "/pages/privacidade"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/pagina/pagamento"
+  to = "/pages/pagamentos"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/pagina/como-comprar"
+  to = "/pages/como-comprar"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/pagina/sobre"
+  to = "/pages/sobre-nos"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/pagina/trocas"
+  to = "/pages/trocas"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/conta"
+  to = "/app/#/account/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/cadastrar"
+  to = "/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/grid*"
+  to = "/search"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/busca*"
+  to = "/search?term=:b"
+  status = 301
+  query = {b = ":b"}
+  force = true
+
+[[redirects]]
+  from = "/*"
+  to = "/.netlify/functions/ssr?slug=:splat"
+  status = 200
+
+[[headers]]
+  for = "/storefront.*"
+  [headers.values]
+    Cache-Control = "public, max-age=3600"
+
+[[headers]]
+  for = "/storefront.*.*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000"
+
+[[headers]]
+  for = "/storefront.js"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
+
+[[headers]]
+  for = "/storefront.css"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
+
+[[headers]]
+  for = "/checkout.*"
+  [headers.values]
+    Cache-Control = "public, max-age=3600"
+
+[[headers]]
+  for = "/checkout.js"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
+
+[[headers]]
+  for = "/chunk.*"
+  [headers.values]
+    Cache-Control = "public, max-age=604800"
+
+[[headers]]
+  for = "/chunk.*.*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000"
+
+[[headers]]
+  for = "/img/*"
+  [headers.values]
+    Cache-Control = "public, max-age=300, s-maxage=60, must-revalidate"
+
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=86400, s-maxage=600"
+
